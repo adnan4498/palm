@@ -35,7 +35,7 @@ export default function Home() {
       <div className="">
         <MouseSection />
       </div>
-
+ 
       <div className="bg-[#06162e] py-[300px]">
         <InvestingSection />
       </div>
